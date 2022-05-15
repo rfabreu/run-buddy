@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 
 ## Purpose
@@ -16,6 +16,5 @@ https://rfabreu.github.io/run-buddy/
 
 ## Contribution
 Made with ♥︎ by Rafael Gomes
-
 
 ### ©️2019 Run Buddy, Inc
